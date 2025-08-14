@@ -38,11 +38,11 @@ La aplicación trabaja con una lista de videojuegos, cada uno con:
 
 ## 🚀 Cómo ejecutar el proyecto
 
-1.- Clonar el repositorio
-git clone https://github.com/tuusuario/csharp-linq-examples.git
-2.- Abrir el proyecto en Visual Studio o Visual Studio Code.
-3.- Ejecutar con:
-dotnet run
+1. **Clonar el repositorio**  
+   ```bash
+   git clone https://github.com/tuusuario/csharp-linq-examples.git
+`2.` Abrir el proyecto en Visual Studio o Visual Studio Code.
+`3.` dotnet run
 
 💡 Si no tienes .NET instalado, descárgalo aquí:
 📥 Descargar .NET SDK
