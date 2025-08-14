@@ -44,8 +44,8 @@ La aplicación trabaja con una lista de videojuegos, cada uno con:
 `2.` Abrir el proyecto en Visual Studio o Visual Studio Code.
 `3.` dotnet run
 
-💡 Si no tienes .NET instalado, descárgalo aquí:
-📥 Descargar .NET SDK
+💡 Si no tienes .NET instalado, descárgalo aquí:  
+[📥 Descargar .NET SDK](https://dotnet.microsoft.com/download)
 
 ## 🎯 Objetivo del proyecto
 
