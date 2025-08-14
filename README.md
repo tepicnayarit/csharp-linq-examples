@@ -36,11 +36,7 @@ La aplicación trabaja con una lista de videojuegos, cada uno con:
 - `Rating` → Calificación  
 - `Price` → Precio en USD  
 
-Ejemplo:
-```csharp
-new Game { Title="The Legend of Zelda", Genre = "RPG", RealeaseYear = 1986, Rating = 9.5, Price = 60 }
-
-🚀 Cómo ejecutar el proyecto
+## 🚀 Cómo ejecutar el proyecto
 
 1.- Clonar el repositorio
 git clone https://github.com/tuusuario/csharp-linq-examples.git
@@ -51,14 +47,15 @@ dotnet run
 💡 Si no tienes .NET instalado, descárgalo aquí:
 📥 Descargar .NET SDK
 
-🎯 Objetivo del proyecto
+## 🎯 Objetivo del proyecto
 
 Este repositorio fue creado con fines educativos como parte de mi aprendizaje continuo en C# y LINQ.
 También forma parte de mi portafolio de programación.
 
-📚 Recursos recomendados
+## 📚 Recursos recomendados
 
 Documentación oficial de LINQ - Microsoft
+
 Ejercicios interactivos de LINQ
 
-💻 Desarrollado por César Navarro con ❤️ y mucho café ☕
+## 💻 Desarrollado por César Navarro con ❤️ y mucho café ☕
