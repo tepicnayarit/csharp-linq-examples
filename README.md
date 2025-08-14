@@ -54,8 +54,7 @@ También forma parte de mi portafolio de programación.
 
 ## 📚 Recursos recomendados
 
-Documentación oficial de LINQ - Microsoft
-
-Ejercicios interactivos de LINQ
+- [Documentación oficial de LINQ - Microsoft](https://learn.microsoft.com/dotnet/csharp/programming-guide/concepts/linq/)
+- [Ejercicios interactivos de LINQ](https://www.dotnetperls.com/linq)
 
 ## 💻 Desarrollado por César Navarro con ❤️ y mucho café ☕
